@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="CarConfig" format=3 uid="uid://butoa07ai8qwd"]
+
+[ext_resource type="Script" uid="uid://4ecuy8lml324" path="res://scripts/car_config.gd" id="1_pexor"]
+
+[resource]
+script = ExtResource("1_pexor")
+metadata/_custom_type_script = "uid://4ecuy8lml324"

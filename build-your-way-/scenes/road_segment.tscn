@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://b014sl4rj8nwm"]
+
+[node name="RoadSegment" type="Node2D" unique_id=587343677]
+
+[node name="Asphalt" type="ColorRect" parent="." unique_id=1390210859]
+offset_right = 256.0
+offset_bottom = 40.0
+mouse_filter = 2
+color = Color(0.2901961, 0.2901961, 0.2901961, 1)
+
+[node name="Stripe1" type="ColorRect" parent="." unique_id=1992411432]
+offset_left = 24.0
+offset_top = 18.0
+offset_right = 104.0
+offset_bottom = 22.0
+mouse_filter = 2
+color = Color(0.9490196, 0.81960785, 0.29411766, 1)
+
+[node name="Stripe2" type="ColorRect" parent="." unique_id=1931909823]
+offset_left = 152.0
+offset_top = 18.0
+offset_right = 232.0
+offset_bottom = 22.0
+mouse_filter = 2
+color = Color(0.9490196, 0.81960785, 0.29411766, 1)
